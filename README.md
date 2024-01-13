@@ -1,6 +1,6 @@
 ## linear-regression
 
-#Code Descriptions:
+Code Descriptions:
 Imports and Setup:
 
 1- Import necessary libraries like 'numpy', 'matplotlib', and 'copy'.
